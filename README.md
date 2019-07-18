@@ -1,2 +1,2 @@
 # powercli
-This repository is for powercliscripts for vmWare related activity's 
+This repository is for vmWare related activity's 
