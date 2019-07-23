@@ -1,0 +1,7 @@
+>Test-Path $profile   ## To check whether profile exists or not
+
+If ture rofile exists and false doesn't exists
+
+>New-Item -path $profile -type file –force  ## To create profile
+
+> $PROFILE | Format-List -Force ##To find path profiles
