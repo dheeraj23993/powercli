@@ -1,0 +1,3 @@
+PS> Function CD32 {Set-Location -Path C:\Windows\System32}  ##simple funtion
+
+It will be temparory, need to save in profile to be permanent. 
